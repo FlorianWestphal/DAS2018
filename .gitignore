@@ -1,0 +1,4 @@
+*.hdfs
+*.tar.gz
+*.pyc
+.DS_Store
