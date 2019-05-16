@@ -27,7 +27,7 @@ In order to train a model for binarization, one has to create a database file, a
 
 The configuration file should look as follows:
 
-<code>
+```shell
 [config]
 
 # Network Config
@@ -65,7 +65,7 @@ log-path: "/path/to/tensorflow/log/test_run"
 
 ratio: 0.2
 seed: 42
-</code>
+```
 
 ## Binarization
 
